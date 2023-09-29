@@ -28,7 +28,7 @@ export default function AddProduct() {
 
     const handlesubmit = (e)=>{
         e.preventDefault()
-        const Base_Url = "http://localhost:3000/"
+        const Base_Url = "https://product-manager-yzdg.onrender.com/"
         axios.post(Base_Url+'save',{
             productName:input.productName,
             price:input.price,
