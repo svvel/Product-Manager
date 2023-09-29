@@ -21,7 +21,7 @@ function Cell({productName,price,oldPrice,category,active,description,id}) {
         window.location.reload();
     }
     const handleDelete = ()=>{     
-        const Base_Url = "http://localhost:3000/"
+        const Base_Url = "https://product-manager-yzdg.onrender.com/"
         var result = window.confirm("Do you want to continue?");
             if (result) {
                 axios.post(Base_Url+`delete/${id}`)   
