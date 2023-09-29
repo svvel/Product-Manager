@@ -54,6 +54,7 @@ Go to the project directory
 
 ```bash
   cd client
+  cd my-app
 ```
 
 Install dependencies
