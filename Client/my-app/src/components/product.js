@@ -57,7 +57,7 @@ export default function Product() {
   const [row, setRow]= React.useState([])
   const [active, setActive]= React.useState("")
   
-  const Base_Url = "http://localhost:3000/"
+  const Base_Url = "https://product-manager-yzdg.onrender.com/"
   React.useEffect(()=>{
      axios.get(Base_Url)   
     .then((data)=>{setRow(data.data)})
