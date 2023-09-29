@@ -35,7 +35,7 @@ export default function Updateproduct() {
     const handlesubmit = (e)=>{
         e.preventDefault()
         const id = localStorage.getItem("id")
-        const Base_Url = "http://localhost:3000/"
+        const Base_Url = "https://product-manager-yzdg.onrender.com/"
         axios.post(Base_Url+'update/'+id,{
             productName:input.productName,
             price:input.price,
