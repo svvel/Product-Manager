@@ -1,6 +1,6 @@
-# Blog App
+# Product Manager
 
-Blog Web Application for a client. Where the client is able to Add , upadte, delete his Blogs. 
+Product Web Application for a client. Where the client is able to Add , upadte, delete his Product. 
 
 <h4 align="left">
   Frontend Deployed on Netlify &#160; <img src="https://media.giphy.com/media/FbUuPsOW3oOCdAHexF/giphy.gif" width="50"> &#160; 
@@ -11,12 +11,9 @@ Blog Web Application for a client. Where the client is able to Add , upadte, del
 </h4>
 
 ## Features
-- Signup/Login users
-- Add Blogs
-- Update BLogs
-- Delete Blogs
-- Add IMages
-- View all users blog
+- Add
+- Update 
+- Delete 
 
 ## Run Backend
 
