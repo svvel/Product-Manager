@@ -3,7 +3,7 @@
 Product Web Application for a client. Where the client is able to Add , upadte, delete his Product. 
 
 <h4 align="left">
-  Frontend &#160; <img src="https://media.giphy.com/media/FbUuPsOW3oOCdAHexF/giphy.gif" width="50"> &#160; https://producthandle.netlify.app/
+  Frontend &#160; &#160; https://producthandle.netlify.app/
 </h4>
 
 <h4 align="left">
