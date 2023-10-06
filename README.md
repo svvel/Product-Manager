@@ -7,7 +7,7 @@ Product Web Application for a client. Where the client is able to Add , upadte, 
 </h4>
 
 <h4 align="left">
-  Backend &#160; <img src="https://media.giphy.com/media/FbUuPsOW3oOCdAHexF/giphy.gif" width="50"> &#160; https://product-manager-yzdg.onrender.com
+  Backend &#160;  &#160; https://product-manager-yzdg.onrender.com
 </h4>
 
 ## Features
